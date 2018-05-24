@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CloudBoxApplication {
 
 	public static void main(String[] args) {
+		//练习提交
 		SpringApplication.run(CloudBoxApplication.class, args);
 	}
 }
